@@ -8,7 +8,8 @@ delivery.
 - **Free demo and releases:** [perfect-soft/perfect-streamer](https://github.com/perfect-soft/perfect-streamer)
 - **Website:** [pstreamer.tv](https://pstreamer.tv)
 - **Documentation:** [doc2.pstreamer.tv](https://doc2.pstreamer.tv/en/)
+- **Pre-sales and purchase:** [request form](https://support.pstreamer.tv/crm/support/new/purchase)
 - **Questions:** [Discussions](https://github.com/orgs/perfect-soft/discussions) · [support@pstreamer.tv](mailto:support@pstreamer.tv)
 - **Community:** [forum](https://forum.pstreamer.tv/) · [Telegram](https://t.me/PerfectStreamer)
 
-<img src="https://raw.githubusercontent.com/perfect-soft/perfect-streamer/main/assets/meshwork-overview.png" alt="Perfect Streamer 2.x: Meshwork overview of five streamers" width="800">
+<img src="https://raw.githubusercontent.com/perfect-soft/perfect-streamer/main/assets/meshwork-overview.png" alt="Perfect Streamer Meshwork: overview of five streamers" width="800">
