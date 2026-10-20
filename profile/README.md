@@ -8,7 +8,7 @@ delivery.
 - **Free demo and releases:** [perfect-soft/perfect-streamer](https://github.com/perfect-soft/perfect-streamer)
 - **Website:** [pstreamer.tv](https://pstreamer.tv)
 - **Documentation:** [doc2.pstreamer.tv](https://doc2.pstreamer.tv/en/)
-- **Pre-sales and purchase:** [request form](https://support.pstreamer.tv/crm/support/new/purchase)
+- **Help Center:** [support.pstreamer.tv](https://support.pstreamer.tv/) · [pre-sales and purchase](https://support.pstreamer.tv/crm/support/new/purchase)
 - **Questions:** [Discussions](https://github.com/orgs/perfect-soft/discussions) · [support@pstreamer.tv](mailto:support@pstreamer.tv)
 - **Community:** [forum](https://forum.pstreamer.tv/) · [Telegram](https://t.me/PerfectStreamer)
 
