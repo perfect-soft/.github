@@ -5,6 +5,7 @@ and IP networks: SRT, RIST, Pro-MPEG FEC, UDP/RTP multicast, HLS / DASH, MPTS mu
 transcoding (NVIDIA NVENC, Intel VPL, CPU), and the proprietary Perfect Stream (PS1) protocol for reliable point-to-point
 delivery.
 
+- **New: 2.1 beta** · Meshwork reserve for multicast and OTT/DVR, SMPTE ST 2022-7 and ST 2022-1 FEC: [what's new](https://doc2.pstreamer.tv/en/manual/whats_new/index.html) · [beta programme](https://doc2.pstreamer.tv/en/manual/extras/beta.html)
 - **Free demo and releases:** [perfect-soft/perfect-streamer](https://github.com/perfect-soft/perfect-streamer)
 - **Free tools:** [perfect-soft/perfect-streamer-toolkit](https://github.com/perfect-soft/perfect-streamer-toolkit) · ts_analyze, a TR 101 290 MPEG-TS analyzer (Apache-2.0)
 - **Website:** [meshwork.pstreamer.tv](https://meshwork.pstreamer.tv)
